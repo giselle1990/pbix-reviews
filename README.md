@@ -1,44 +1,48 @@
-📊 Análisis de Sentimientos y Control Operativo - Baterías Nano 24h
-Este proyecto surge de la necesidad de transformar datos no estructurados (reseñas de clientes) y datos operativos en información estratégica para la toma de decisiones en tiempo real.
+🚀 Data Insights & Strategic Analytics Portfolio
+¡Bienvenida/o a mi repositorio de proyectos de Business Intelligence! Aquí encontrarás soluciones de datos diseñadas para optimizar la toma de decisiones, desde el análisis de mercado hasta la eficiencia operativa. Mi enfoque combina el rigor de la Auditoría Legal con la potencia de la Ciencia de Datos.
++1
 
-🎯 El Desafío
-Como Analista de Datos y Auditora, el objetivo fue monitorear la reputación online y la eficiencia operativa de un servicio esencial de 24 horas. Se buscaba identificar patrones de satisfacción y cuellos de botella en la atención al cliente.
-+3
+🔋 Proyecto 1: Market Intelligence & Sentiment Analysis (Baterías 24hs)
+Análisis comparativo de la reputación online de las principales empresas de servicios de baterías 24hs en CABA.
+
+Impacto: Identificación de puntos críticos en la atención al cliente y ventajas competitivas mediante el procesamiento de más de 1,000 reseñas.
+
+Tech Stack: Python (Scraping), NLP para análisis de sentimientos y Power BI para visualización dinámica.
+<img width="1024" height="575" alt="image" src="https://github.com/user-attachments/assets/fc7b2824-fdc2-4d11-bd94-bf0bc9c3cfa3" />
+
+
+⚡ Proyecto 2: Excelencia Operativa en "Baterías Nano"
+Optimización de un servicio de emergencia 24hs mediante el análisis profundo de ventas y factores externos.
+
+
+Correlación Estratégica: Análisis de demanda según días de lluvia, feriados y fines de semana para optimizar el stock y las guardias técnicas.
+
+
+Resultados: Visualización de rentabilidad por marca (Willard, Moura, Sermat) y crecimiento de servicios realizados en condiciones climáticas adversas.
+<img width="1024" height="564" alt="image" src="https://github.com/user-attachments/assets/fa2dd5e4-fd85-428c-a639-62229da42dff" />
+<img width="1024" height="569" alt="image" src="https://github.com/user-attachments/assets/9accf96e-0b64-42f6-b507-07364ce9f3af" />
+
+
+🎮 Proyecto 3: Global Sales History - Video Games Industry
+Un recorrido histórico por las tendencias de consumo en la industria de los videojuegos, analizando ventas regionales y plataformas líderes.
+
+Enfoque: Análisis de cuotas de mercado por región (Norteamérica, Europa, Japón) y evolución de plataformas desde 1980 hasta la actualidad.
+
+Visualización: Dashboard de alto nivel con filtros cruzados para explorar el rendimiento por género y editorial.
+
+<img width="1024" height="578" alt="image" src="https://github.com/user-attachments/assets/f44362a2-93a2-4718-bfa4-77e7950b6317" />
+
 
 🛠️ Stack Tecnológico
 
-Power BI: Modelado de datos (Star Schema) y visualización avanzada.
+Visualización: Power BI (DAX avanzado, Power Query).
++1
 
 
-DAX: Creación de medidas complejas para KPIs de sentimiento y rentabilidad.
+Lenguajes: SQL (Consultas complejas) y Python (Pandas, Automatización).
++1
 
-
-Power Query: ETL y limpieza de datos provenientes de diversas fuentes.
-
-
-Python: Automatización del proceso de recolección de reseñas (Web Scraping).
-
-
-SQL: Consultas para la extracción y validación de datos de ventas y stock.
-
-📈 Funcionalidades del Dashboard
-
-Análisis de Sentimiento: Clasificación automática de reseñas de Google para detectar áreas de mejora.
-
-
-Control de Stock y Ventas: Visualización de la rentabilidad por zona y tipo de producto.
-
-
-Evidencia Textual: Identificación de términos clave que influyen en la calificación promedio.
-
-📸 Vista del Proyecto
-[!TIP] Puedes ver capturas del tablero interactivo en la carpeta /screenshots de este repositorio.
-
-(Aquí puedes insertar una de tus capturas de pantalla de la siguiente forma): ![Dashboard de Sentimientos](https://github.com/tu-usuario/tu-repo/blob/main/tu-imagen.jpg)
-
-💼 Perfil Profesional
-Soy Giselle San German, Abogada y estudiante de Ciencia de Datos. Mi enfoque combina el rigor del cumplimiento normativo y la auditoría con el poder de los datos para generar soluciones eficientes y transparentes.
-+3
+IA Readiness: Proyectos diseñados para integrarse con MCP Servers, permitiendo que agentes de IA consuman estos insights para auditorías inteligentes.
 
 
 LinkedIn: linkedin.com/in/gisellesangerman11/ 
